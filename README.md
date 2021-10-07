@@ -18,5 +18,5 @@ npx hardhat deploy --network kovan --tags car
 npx hardhat verify --network kovan DEPLOYED_CONTRACT_ADDRESS
 ```
 
-![tests](./cache/test_out.png)
-![passing](./cache/passing.png)
+![tests](./img/test_out.png)
+![passing](./img/passing.png)
